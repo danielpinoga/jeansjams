@@ -9,3 +9,4 @@
       "postinstall": "npm run build && npm run deploy && echo 'Client built!'"
     }
   }
+  
